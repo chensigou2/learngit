@@ -1,0 +1,11 @@
+var storage = [
+    { id: 1, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 2, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 3, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 4, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 5, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 6, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 7, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 8, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' },
+    { id: 9, title: '富士山下', singer: '陈奕迅', music: '陈奕迅 - 富士山下 .MP3', poster: '陈奕迅 .jpg' }
+]
