@@ -12,6 +12,6 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "formidable": "^1.0.17",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
